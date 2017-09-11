@@ -1,0 +1,5 @@
+Created the LabelGraph in : /GITHUB.cloudera.internal/NeuralCrawler/cdsw-dl-4-cv-on-cdh/./out/label_net.csv
+Operation is done in dryrun mode: true
+Input images are taken from parent folder : ./IMAGE_STAGE_LOCAL/img/BRAND-DATA-SET-FROM-GOOGLE-IMAGE-SEARCH
+Processed 0 LabeledImages in 8.0 s.
+Results are stored in : /GITHUB/my-semanpix-001/VGG16DemoApp_RUN_1505159914211
